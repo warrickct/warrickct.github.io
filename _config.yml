@@ -9,7 +9,7 @@
 title: Warrick Corfe-Tan Photography
 email: warrickct@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-This is the photography portfolio and business page for Warrick Corfe-Tan.
+ This is the photography portfolio and business page for Warrick Corfe-Tan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
