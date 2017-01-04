@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hi"
-date:   2016-12-19 15:20:00 -0500
-categories: jekyll update
+date:   2017-01-04 15:20:00 -0500
+categories: announcement
 ---
 
 Hi,
