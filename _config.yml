@@ -16,4 +16,9 @@ twitter_username: warrickct
 github_username:  warrickct
 
 # Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
 markdown: kramdown
